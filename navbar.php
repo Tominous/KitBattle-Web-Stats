@@ -23,7 +23,7 @@
 						</span>
 					</div>
 	      </form>
-				<!--SOON<a href="#" class="btn btn-danger btn-lg">Admin</a>-->
+				<a href="#" class="btn btn-danger btn-lg">Administrator</a>
 			</ul>
 		</div>
 	</div>
